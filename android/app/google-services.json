@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815749074889",
+    "project_id": "coldemailapp-799e0",
+    "storage_bucket": "coldemailapp-799e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815749074889:android:fb7eabf81eef94ace22218",
+        "android_client_info": {
+          "package_name": "com.example.coldemailapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkI3kwGHRv9XE15m2KwJLtDAjXxa2AmDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
